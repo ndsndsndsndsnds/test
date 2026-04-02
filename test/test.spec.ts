@@ -32,7 +32,7 @@ class CheckoutHelper implements IPageActions {
 }
 
 const TEST_CARD = {
-  number: '4111111111111111',
+  number: '4111111111111100',
   expiry: '12/30',
   cvv: '123',
   holder: 'Test User'
